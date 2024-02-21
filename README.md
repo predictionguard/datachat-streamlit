@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/streamlit-chat-with-data.git
+git clone https://github.com/predictionguard/datachat-streamlit.git
 cd streamlit-chat-with-data
 ```
 
