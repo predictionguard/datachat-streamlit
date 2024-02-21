@@ -29,7 +29,7 @@ footer {visibility: hidden;}
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 #--------------------------#
-# Get Shopify Data        #
+# Get Data        #
 #--------------------------#
 
 @st.cache_resource
