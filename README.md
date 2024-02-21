@@ -1,6 +1,6 @@
-# Streamlit Chat with Data
+# Chat with Data using Prediction Guard
 
-Streamlit Chat with Data is an interactive chat application built with Streamlit, enabling users to engage in conversations powered by data from various datasets. This application demonstrates how to implement chat functionalities with a focus on querying single and multiple datasets, including jobs, social media, and movies, for insightful data-driven interactions.
+Chat with Data is an interactive streamlit based chat UI application built with Prediction Guard, enabling users to engage in conversations powered by data from various datasets. This application demonstrates how to implement chat functionalities with a focus on querying single and multiple datasets, including jobs, social media, and movies, for insightful data-driven interactions.
 
 ## Features
 
